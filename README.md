@@ -136,7 +136,7 @@ pred_original = y_scaler.inverse_transform(scaled_pred)
 print(f"\nPredicted Profit for the new startup: ₹{pred_original[0][0]:,.2f}")
 ```
 ## Output:
-![linear regression using gradient descent](sam.png)
+
 <img width="1301" height="517" alt="image" src="https://github.com/user-attachments/assets/8101969e-a4d0-496c-9abd-0897233fa282" />
 
 <img width="1715" height="326" alt="image" src="https://github.com/user-attachments/assets/b530c092-3ba6-45f6-aeb0-f1824a83b313" />
